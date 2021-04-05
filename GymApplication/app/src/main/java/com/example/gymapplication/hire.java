@@ -14,4 +14,7 @@ public class hire extends AppCompatActivity {
     // TODO: 5/04/21  Allow the person to choose the trainer
     // then must meet the time to apply for them
 
+
+    // TODO: 5/04/21  drop down menus 
+
 }
